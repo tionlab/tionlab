@@ -65,5 +65,5 @@
 <p align="center">
   <img src="assets/with.png" width="250" />
   <br/>
-  © 2024 tionlab Est. 2018
+  © 2025 tation & tionlab Est. 2018
 </p>
