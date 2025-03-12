@@ -1,35 +1,67 @@
-# ✨ Tion Software Laboratory ✨  
+# ✨ Tion Software Laboratory ✨
+
 ## 🔮Unleashing Power of Creation <br/> 자유로운 상상을 간단하지만 정교하게 현실화.
 
-[![tation@kku.ac.kr](https://img.shields.io/static/v1?label=tation@kku.ac.kr&message=%20&color=blue&logo=gmail&style=flat-square&logoColor=white)](mailto:tation@kku.ac.kr)  
-   
+[![tation@kku.ac.kr](https://img.shields.io/static/v1?label=tation@kku.ac.kr&message=%20&color=blue&logo=gmail&style=flat-square&logoColor=white)](mailto:tation@kku.ac.kr)
+
 # Tation 타티온
+
 <p align="center">
   <img src="assets/tation_main.png" width="200" /><br/>
   👨‍💻 웹/프로그램/서버 <strong>소프트웨어 개발자</strong>  & <strong>화이트햇(웹)</strong><br/>
   👨🏻‍🎓 <strong>2006년생</strong>, 만 18세<br/>
-  🏫 2024 인문계 고등학교 졸업,<br/>2025 건국대학교 글로컬캠퍼스 컴퓨터공학과 수석 입학 (학생부종합)<br/>
+  🏫 2024 인문계 고등학교 졸업,<br/>2025 건국대학교 글로컬캠퍼스 컴퓨터공학과 수석 입학 (학생부종합전형)<br/>
 </p>
 
 #### 사용 언어
-> $\bf{\color{#7081ff}Python\ /\ Javascript\ /\ Arduino\ /\ C\ /\ Go\ /\ Git}$
 
-![사용 언어](https://skillicons.dev/icons?i=py,flask,selenium,opencv,qt,tensorflow,js,ts,nodejs,react,nextjs,tailwind,firebase,express,mongodb,discordjs,html,css,electron,arduino,c,go,git,md,regex&perline=6)
+> $\bf{\color{#7081ff}Python\ /\ Javascript\ /\ C\ /\ Go\ /\ Git}$
+
+<details>
+  <summary>Click to expand</summary>
+    <h3>Python</h3>
+    Flask, Selenium, OpenCV, MediaPipe, Tkinter, PyQt, Tensorflow, Pandas, Scikit-learn, Pillow, Pygame, Ursina, MoviePy, SpeechRecognition, gTTS, Requests, tqdm, Dotenv, PyInstaller, Nukita and more.
+    <hr/>
+    <h3>Javascript (Typescript)</h3>
+    Node.js, React.js, ReactNative, Expo, Next.js, Tailwind CSS, MongoDB(mongoose), Firebase, Express.js, Discord.js(v13~14), Electron, Chart.js, Canvas.js, Axios, Dotenv and more.
+    <hr/>
+    <h3>HTML, CSS, C, Arduino(C++), GO, Git, Markdown, RegEx and more.</h3>
+    <hr/>
+</details>
+<br/>
+
+![사용 언어](https://skillicons.dev/icons?i=py,flask,selenium,opencv,qt,tensorflow,js,ts,nodejs,react,nextjs,tailwind,mongodb,firebase,express,discordjs,html,css,electron,c,arduino,go,git,md,regex&perline=6)
 
 #### 사용 툴 / OS
-> $\bf{\color{#7081ff}Vscode\ /\ Docker\ /\ Npm\ /\ Bun\ /\ Ubuntu\ /\ Raspberrypi}$
 
-![사용 툴](https://skillicons.dev/icons?i=vscode,docker,github,anaconda,npm,bun,bash,powershell,ubuntu,raspberrypi,windows,heroku,netlify,replit,vercel,blender,ae,ps,pr,notion&perline=7)
+> $\bf{\color{#7081ff}Vscode\ /\ Docker\ /\ Npm\ /\ Bun\ /\ Ubuntu\ /\ RaspberryPi}$
+
+<details>
+  <summary>Click to expand</summary>
+    <h3>VSCode, Docker, Github, PyPI(pip), Anaconda, Npm, Bun</h3><hr/><h3>Bash, PowerShell</h3><hr/><h3>Ubuntu, RaspberryPi, Window 11</h3><hr/><h3>Heroku(BuildPack/Hosting), Netlify, Replit, Vercel</h3>
+    <hr/><h3>Blender, AfterEffect, PhotoShop, Notion and more.</h3><hr/>
+</details>
+<br/>
+
+![사용 툴](https://skillicons.dev/icons?i=vscode,docker,github,anaconda,npm,bun,bash,powershell,ubuntu,kali,raspberrypi,windows,heroku,netlify,replit,vercel,blender,ae,ps,notion&perline=7)
 
 #### 학습 중
+
 > $\bf{\color{#70b3ff}Java\ /\ Kotlin\ /\ Rust}$
+
+<details>
+  <summary>Click to expand</summary>
+    <h3>Java, SpringBoot, Kotlin, C++, Rust and more.</h3><hr/>
+</details>
+<br/>
 
 ![학습 예정](https://skillicons.dev/icons?i=java,spring,kotlin,rust)
 
-#### 학습 예정
-> $\bf{\color{#70eeff}Ruby\ /\ Android\ Studio\ /\ Svelte\ /\ Three.js\ /\ Unreal}$
+#### 학습 예정 (배워보고 싶은것들)
 
-![학습 예정](https://skillicons.dev/icons?i=ruby,androidstudio,svelte,threejs,unreal)
+> $\bf{\color{#70eeff}Ruby\ /\ Android\ Studio\ /\ Swift\ /\ Svelte\ /\ Three.js\ /\ Unreal}$
+
+![학습 예정](https://skillicons.dev/icons?i=ruby,androidstudio,swift,svelte,threejs,unreal)
 
 <hr/>
 <table align="center">
