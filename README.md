@@ -6,10 +6,9 @@
 # Tation 타티온
 <p align="center">
   <img src="assets/tation_main.png" width="200" /><br/>
-  👨‍💻 웹/프로그램/서버 <strong>소프트웨어 개발자</strong>  & <strong>화이트햇</strong><br/>
+  👨‍💻 웹/프로그램/서버 <strong>소프트웨어 개발자</strong>  & <strong>화이트햇(웹)</strong><br/>
   👨🏻‍🎓 <strong>2006년생</strong>, 만 18세<br/>
-  🏫 2024 인문계 고등학교 졸업,<br/>2025 건국대학교 글로컬캠퍼스 수석 입학 (학생부종합)<br/>
-  📦 외주는 이메일 문의.
+  🏫 2024 인문계 고등학교 졸업,<br/>2025 건국대학교 글로컬캠퍼스 컴퓨터공학과 수석 입학 (학생부종합)<br/>
 </p>
 
 #### 사용 언어
