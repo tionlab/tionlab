@@ -38,7 +38,7 @@
 
 <details>
   <summary>Click to expand</summary>
-    <h3>VSCode, Docker, Github, PyPI(pip), Anaconda, Npm, Bun</h3><hr/><h3>Bash, PowerShell</h3><hr/><h3>Ubuntu, RaspberryPi, Window 11</h3><hr/><h3>Heroku(BuildPack/Hosting), Netlify, Replit, Vercel</h3>
+    <h3>VSCode, Docker, Github, PyPI(pip), Anaconda, Npm, Bun</h3><hr/><h3>Bash, PowerShell</h3><hr/><h3>Ubuntu, RaspberryPi, Window 11</h3><hr/><h3>Heroku(BuildPack/Hosting), Netlify, Replit, Vercel, DigtalOcean, PuTTY</h3>
     <hr/><h3>Blender, AfterEffect, PhotoShop, Notion and more.</h3><hr/>
 </details>
 <br/>
