@@ -67,10 +67,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://tion-stats.vercel.app/api?username=tionlab&rank_icon=github&include_all_commits=true&theme=github_dark&locale=kr&hide_border=true&v=1.2" alt="tionlab's github stats">
+      <img src="https://tion-stats.vercel.app/api?username=tionlab&rank_icon=github&include_all_commits=true&theme=github_dark&locale=kr&hide_border=true&v=1.3" alt="tionlab's github stats">
     </td>
     <td align="center">
-      <img src="https://tion-stats.vercel.app/api/top-langs/?username=tionlab&langs_count=10&layout=compact&theme=github_dark&locale=kr&hide_border=true&v=1.2" alt="tionlab's language stats">
+      <img src="https://tion-stats.vercel.app/api/top-langs/?username=tionlab&langs_count=10&layout=compact&theme=github_dark&locale=kr&hide_border=true&v=1.3" alt="tionlab's language stats">
     </td>
   </tr>
   <tr>
