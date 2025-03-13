@@ -47,15 +47,15 @@
 
 #### 학습 중
 
-> $\bf{\color{#70b3ff}Java\ /\ Kotlin\ /\ Rust}$
+> $\bf{\color{#70b3ff}Anaconda\ /\ Java\ /\ Kotlin\ /\ Rust}$
 
 <details>
   <summary>Click to expand</summary>
-    <h3>Java, SpringBoot, Kotlin, C++, Rust and more.</h3><hr/>
+    <h3>Anaconda, Java, SpringBoot, Kotlin, C++, Rust and more.</h3><hr/>
 </details>
 <br/>
 
-![학습 예정](https://skillicons.dev/icons?i=java,spring,kotlin,rust)
+![학습 예정](https://skillicons.dev/icons?i=anaconda,java,spring,kotlin,rust)
 
 #### 학습 예정 (배워보고 싶은것들)
 
