@@ -59,9 +59,9 @@
 
 #### 학습 예정 (배워보고 싶은것들)
 
-> $\bf{\color{#70eeff}Ruby\ /\ Android\ Studio\ /\ Swift\ /\ Svelte\ /\ Three.js\ /\ Unreal}$
+> $\bf{\color{#70eeff}Ruby\ /\ Android\ Studio\ /\ Swift\ /\ Svelte\ /\ Flutter\ /\ Three.js\ /\ Unreal}$
 
-![학습 예정](https://skillicons.dev/icons?i=ruby,androidstudio,swift,svelte,threejs,unreal)
+![학습 예정](https://skillicons.dev/icons?i=ruby,androidstudio,swift,svelte,flutter,threejs,unreal)
 
 <hr/>
 <table align="center">
