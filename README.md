@@ -1,4 +1,4 @@
-# ✨ Tion Software Laboratory (Tionlab02) ✨
+# ✨ Tion Software Laboratory (02) ✨
 
 ## 🔮Unleashing Power of Creation <br/> 자유로운 상상을 간단하지만 정교하게 현실화.
 
