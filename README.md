@@ -11,7 +11,7 @@
   👨‍💻 웹/프로그램/서버 <strong>소프트웨어 개발자</strong>  & <strong>화이트햇(웹)</strong><br/>
   👨🏻‍🎓 <strong>2006년생</strong>, 만 18세<br/>
   🏫 2024 인문계 고등학교 졸업,<br/>2025 건국대학교 글로컬캠퍼스 컴퓨터공학과 수석 입학 (학생부종합전형)<br/>
-  🧪 Tionlabs 총괄, <a href="https://hci.kku.ac.kr/" target="_blank">건국 HCI Lab</a>
+  🧪 Tionlabs 총괄, <a href="https://hci.kku.ac.kr/" target="_blank">KKU HCI Lab</a>
 학부연구생
 </p>
 
