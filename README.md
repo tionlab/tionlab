@@ -90,7 +90,7 @@
        </a>
     </td>
     <td align="center">     
-       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pkfzjfbpug2o5p4ri6o42desvm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="tionlab's Spotify profile">
+       <img src="https://readme-lastfm.vercel.app/api" alt="tionlab's Music profile">
     </td>
   </tr>
 </table>
