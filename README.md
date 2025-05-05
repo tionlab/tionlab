@@ -69,10 +69,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://tion-stats.vercel.app/api?rank_icon=github&include_all_commits=true&theme=github_dark&locale=kr&hide_border=true&v=1.6" alt="tionlab's github stats">
+      <img src="https://tion-stats.vercel.app/api?rank_icon=github&include_all_commits=true&theme=github_dark&locale=kr&hide_border=true&v=2" alt="tionlab's github stats">
     </td>
     <td align="center">
-      <img src="https://tion-stats.vercel.app/api/top-langs/?langs_count=10&layout=compact&theme=github_dark&locale=kr&hide_border=true&v=1.6" alt="tionlab's language stats">
+      <img src="https://tion-stats.vercel.app/api/top-langs/?langs_count=10&layout=compact&theme=github_dark&locale=kr&hide_border=true&v=2" alt="tionlab's language stats">
     </td>
   </tr>
   <tr>
@@ -80,7 +80,7 @@
       <img src="https://tion-streak.vercel.app/?user=tionlab&theme=github-dark-blue&hide_border=true&locale=ko&mode=weekly" alt="tionlab's streak stats">
     </td>
     <td align="center">
-      <img src="https://svg-banners.vercel.app/api?type=luminance&text1=✨%20Tionlab&width=300&height=150" alt="✨ Tionlab">
+      <img src="assets/tionlab.svg" alt="✨ Tionlab">
     </td>
   </tr>
   <tr>
