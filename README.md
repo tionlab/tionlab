@@ -69,15 +69,15 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://tion-stats.vercel.app/api?locale=kr&v=2.3" alt="tionlab's github stats">
+      <img src="https://tion-stats.vercel.app/api?locale=kr&timestamp=1234567890" alt="tionlab's github stats">
     </td>
     <td align="center">
-      <img src="https://tion-stats.vercel.app/api/top-langs/?locale=kr&v=2.1" alt="tionlab's language stats">
+      <img src="https://tion-stats.vercel.app/api/top-langs/?locale=kr&timestamp=1234567890" alt="tionlab's language stats">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://tion-streak.vercel.app/?user=tionlab&theme=github-dark-blue&hide_border=true&locale=ko&mode=weekly" alt="tionlab's streak stats">
+      <img src="https://tion-streak.vercel.app/?theme=github-dark-blue&hide_border=true&locale=ko&mode=weekly" alt="tionlab's streak stats">
     </td>
     <td align="center">
       <img src="assets/tionlab.svg" alt="✨ Tionlab">
@@ -90,7 +90,7 @@
        </a>
     </td>
     <td align="center">     
-       <img src="https://readme-lastfm.vercel.app/api?v=2" alt="tionlab's Music profile">
+       <img src="https://readme-lastfm.vercel.app/api?timestamp=1234567890" alt="tionlab's Music profile">
     </td>
   </tr>
 </table>
