@@ -15,11 +15,12 @@ jobs:
 
             - name: Generate timestamp
               id: timestamp
-              run: echo "::set-output name=now::$(date +%s)"
+              run: |
+                  echo "TIMESTAMP=$(date +%s)" >> $GITHUB_ENV
 
             - name: Replace timestamp in README
               run: |
-                  sed -i 's/timestamp=[0-9]*/timestamp='${{ steps.timestamp.outputs.now }}'/g' README.md
+                  sed -i 's/timestamp=[0-9]*/timestamp='${{ env.TIMESTAMP }}'/g' README.md
 
             - name: Commit & Push
               run: |
