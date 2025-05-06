@@ -69,10 +69,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://tion-stats.vercel.app/api?locale=kr&timestamp=1746508856" alt="tionlab's github stats">
+      <img src="https://tion-stats.vercel.app/api?locale=kr" alt="tionlab's github stats">
     </td>
     <td align="center">
-      <img src="https://tion-stats.vercel.app/api/top-langs/?locale=kr&timestamp=1746508856" alt="tionlab's language stats">
+      <img src="https://tion-stats.vercel.app/api/top-langs/?locale=kr" alt="tionlab's language stats">
     </td>
   </tr>
   <tr>
