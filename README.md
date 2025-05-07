@@ -90,7 +90,7 @@
        </a>
     </td>
     <td align="center">     
-       <img src="https://readme-lastfm.vercel.app/api?timestamp=1746647354" alt="tionlab's Music profile">
+       <img src="https://readme-lastfm.vercel.app/api?timestamp=1746648060" alt="tionlab's Music profile">
     </td>
   </tr>
 </table>
