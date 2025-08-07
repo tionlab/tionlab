@@ -1,0 +1,31 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: Generate timestamp
+        id: timestamp
+        run: echo "now=$(date +%s)" >> $GITHUB_OUTPUT
+      
+      - name: Replace timestamp in README
+        run: |
+          sed -i 's/timestamp=[0-9]*/timestamp=${{ steps.timestamp.outputs.now }}/g' README.md
+      
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add README.md
+          git commit -m "timestamp update"
+          git push
